@@ -3,22 +3,19 @@
 This is for a test
 */
 
-#include <iostream>
+#include <fstream>
 
-int main()
+int main()			//Not the main
 {
-	/*
-		Heaps of code has been written here.
-	*/
+	return 27;
 
+	/*
+		This is changes to code
+	*/
 
 	/*
 		Heaps of code has been written here.
 		and Heaps
 		of changes
 	*/
-
-
-
-	return 0;
 }
